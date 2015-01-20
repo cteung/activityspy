@@ -45,12 +45,14 @@ public class MainActivity extends ActionBarActivity {
     public void onStart()
     {
         super.onStart();
+        Toast.makeText(getApplicationContext(),"Greetings UW!", Toast.LENGTH_LONG).show();
         Log.i("MainActivity", "onStart() event fired");
     }
 
     public void onRestart()
     {
         super.onRestart();
+        Toast.makeText(getApplicationContext(),"Greetings UW!", Toast.LENGTH_LONG).show();
         Log.i("MainActivity", "onRestart() event fired");
     }
 

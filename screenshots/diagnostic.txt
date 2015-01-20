@@ -1,0 +1,67 @@
+01-20 11:43:07.705    1931-1931/edu.washington.cteung.activityspy I/MainActivity? onPause() event fired
+01-20 11:43:07.711    1931-1931/edu.washington.cteung.activityspy I/MainActivity? onStop() event fired
+01-20 11:43:28.175    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onCreate event fired
+01-20 11:43:28.177    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onStart() event fired
+01-20 11:43:28.216    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onResume() event fired
+01-20 11:43:28.222    2293-2305/edu.washington.cteung.activityspy I/art? Background sticky concurrent mark sweep GC freed 2888(227KB) AllocSpace objects, 0(0B) LOS objects, 27% free, 818KB/1135KB, paused 32.483ms total 42.664ms
+01-20 11:43:28.343    2293-2308/edu.washington.cteung.activityspy I/OpenGLRenderer? Initialized EGL, version 1.4
+01-20 11:43:28.416    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:43:28.416    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa68a0080, error=EGL_SUCCESS
+01-20 11:43:28.536    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:43:28.536    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa68a00a0, error=EGL_SUCCESS
+01-20 11:43:31.721    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:43:31.721    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa68a00a0, error=EGL_SUCCESS
+01-20 11:43:46.470    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onPause() event fired
+01-20 11:43:46.478    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onStop() event fired
+01-20 11:43:51.682    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onRestart() event fired
+01-20 11:43:51.683    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onStart() event fired
+01-20 11:43:51.683    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onResume() event fired
+01-20 11:43:51.738    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:43:51.738    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa68a0080, error=EGL_SUCCESS
+01-20 11:43:51.860    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:43:51.860    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa5d73800, error=EGL_SUCCESS
+01-20 11:43:55.237    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:43:55.237    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa5d73800, error=EGL_SUCCESS
+01-20 11:44:06.759    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onPause() event fired
+01-20 11:44:06.785    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onStop() event fired
+01-20 11:44:15.232    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onRestart() event fired
+01-20 11:44:15.235    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onStart() event fired
+01-20 11:44:15.235    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onResume() event fired
+01-20 11:44:15.314    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:44:15.314    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa68a0080, error=EGL_SUCCESS
+01-20 11:44:16.705    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:44:16.705    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa5d77700, error=EGL_SUCCESS
+01-20 11:44:18.784    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:44:18.784    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa5d77700, error=EGL_SUCCESS
+01-20 11:45:54.766    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onPause() event fired
+01-20 11:45:54.780    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onStop() event fired
+01-20 11:45:57.230    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onRestart() event fired
+01-20 11:45:57.232    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onStart() event fired
+01-20 11:45:57.232    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onResume() event fired
+01-20 11:45:57.284    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:45:57.284    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa68a0080, error=EGL_SUCCESS
+01-20 11:45:57.478    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:45:57.478    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa5df53a0, error=EGL_SUCCESS
+01-20 11:45:59.194    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onPause() event fired
+01-20 11:45:59.201    2293-2293/edu.washington.cteung.activityspy I/MainActivity? onStop() event fired
+01-20 11:46:04.293    2293-2293/edu.washington.cteung.activityspy I/Choreographer? Skipped 213 frames!  The application may be doing too much work on its main thread.
+01-20 11:46:04.314    2293-2308/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:46:04.314    2293-2308/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa5df53a0, error=EGL_SUCCESS
+01-20 11:46:35.253    2350-2350/edu.washington.cteung.activityspy I/MainActivity? onCreate event fired
+01-20 11:46:35.305    2350-2350/edu.washington.cteung.activityspy I/MainActivity? onStart() event fired
+01-20 11:46:35.306    2350-2350/edu.washington.cteung.activityspy I/MainActivity? onResume() event fired
+01-20 11:46:35.417    2350-2365/edu.washington.cteung.activityspy I/OpenGLRenderer? Initialized EGL, version 1.4
+01-20 11:46:35.481    2350-2365/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:46:35.481    2350-2365/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6c49e20, error=EGL_SUCCESS
+01-20 11:46:35.588    2350-2365/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:46:35.588    2350-2365/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6c49e40, error=EGL_SUCCESS
+01-20 11:46:37.063    2350-2350/edu.washington.cteung.activityspy W/art? Before Android 4.1, method int android.support.v7.internal.widget.ListViewCompat.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+01-20 11:46:37.108    2350-2365/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:46:37.108    2350-2365/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa5e33400, error=EGL_SUCCESS
+01-20 11:46:38.158    2350-2350/edu.washington.cteung.activityspy W/InputEventReceiver? Attempted to finish an input event but the input event receiver has already been disposed.
+01-20 11:46:38.813    2350-2365/edu.washington.cteung.activityspy W/EGL_emulation? eglSurfaceAttrib not implemented
+01-20 11:46:38.813    2350-2365/edu.washington.cteung.activityspy W/OpenGLRenderer? Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6c49e40, error=EGL_SUCCESS
+01-20 11:46:40.694    2350-2350/edu.washington.cteung.activityspy I/MainActivity? onPause() event fired
+01-20 11:46:41.782    2350-2350/edu.washington.cteung.activityspy I/MainActivity? onStop() event fired
+01-20 11:46:41.782    2350-2350/edu.washington.cteung.activityspy I/MainActivity? onDestroy() event fired
+01-20 11:46:41.783    2350-2350/edu.washington.cteung.activityspy E/MainActivity? We’re going down, Captain!
