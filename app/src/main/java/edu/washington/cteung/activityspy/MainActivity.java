@@ -76,6 +76,6 @@ public class MainActivity extends ActionBarActivity {
     {
         super.onDestroy();
         Log.i("MainActivity", "onDestroy() event fired");
-        Log.e("MainActivity", "We’re going down, Captain!")
+        Log.e("MainActivity", "We’re going down, Captain!");
     }
 }
